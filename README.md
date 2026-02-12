@@ -1,1 +1,2 @@
-# kirby-blog.github.io
+# andkirby.github.io/blog
+
